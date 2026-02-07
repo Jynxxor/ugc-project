@@ -1,0 +1,12 @@
+Flow of Project
+
+frontend
+user auth - integration of sign in & sign up
+creation of backend - APIs
+integration of APIs with frontend
+
+
+
+
+
+UI with prebuild templates
