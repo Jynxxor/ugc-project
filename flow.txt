@@ -8,5 +8,22 @@ integration of APIs with frontend
 
 
 
+# Frontend
+- UI with prebuild templates
+- Used Tailwind Classes
+- Added User Authentication with Clerk
+- Added Plans/Billing Setup using Clerk
 
-UI with prebuild templates
+# Backend
+- Backend server with Express & Typescript
+- Neon Database
+- Prisma ORM
+- Clerk Auth & Webhook Controller
+- Error Tracking using Sentry - Sentry: Performance monitoring and error tracking tool
+- User Controllers
+- Image Generation Controller
+- Video Generation Controller
+- Media storage on Cloudinary
+- Deployment using Hostinger VPS || NOT DEPLOYED 
+
+- Faced issues due to google cloud api, NOW images/videos are not generating, else project is completed
